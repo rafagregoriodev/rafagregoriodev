@@ -98,15 +98,6 @@ Me chamo Rafael Lima Gregorio, tenho 21 anos e sou natural de São Paulo. Atualm
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"
 />
 
-<img
-    align="left"
-    alt="Github"
-    title="GitHub"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-/>
-
 <img 
     align="left" 
     alt="Git" 
@@ -116,15 +107,13 @@ Me chamo Rafael Lima Gregorio, tenho 21 anos e sou natural de São Paulo. Atualm
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-
-
 <img
     align="left"
-    alt="Vercel"
-    title="Vercel"
+    alt="Github"
+    title="GitHub"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
 />
 <br/>
 <br/>
