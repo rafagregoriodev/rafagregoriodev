@@ -127,14 +127,14 @@ Me chamo Rafael Lima Gregorio, tenho 21 anos e sou natural de São Paulo. Atualm
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-gamma-five-76.vercel.app/api?username=rafagregoriodev&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&cache_seconds=86400"
+    src="https://github-readme-stats-gamma-five-76.vercel.app/api?username=rafagregoriodev&show_icons=true&theme=dark&locale=pt-br&include_all_commits=true&cache_seconds=86400"
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats-gamma-five-76.vercel.app/api/top-langs/?username=rafagregoriodev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+      src="https://github-readme-stats-gamma-five-76.vercel.app/api/top-langs/?username=rafagregoriodev&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=8" 
   />
 
 </p>
